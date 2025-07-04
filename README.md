@@ -1,4 +1,4 @@
-# Gerenciador de Treino 🏋️‍♂️
+# Gerenciador de Treinos 🏋️‍♂️
 Uma aplicação web para você gerenciar seus treinos semanais
 
 ## 📝 Descrição
