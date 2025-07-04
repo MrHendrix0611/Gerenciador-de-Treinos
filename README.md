@@ -7,11 +7,11 @@ Este projeto é um gerenciador de treinos para que você consiga organizar sua r
 
 ## ⚙ Funcionalidades
 
-Adicionar e Excluir Treinos
-Modificar Informações
-Filtrar por Dia da Semana (Segunda, Terça, Quarta, etc...)
-Filtrar por categoria de treino (força, hipertrofia, resistência)
-Marcar como Concluido, Pendente e Não Realizado
+- Adicionar e Excluir Treinos
+- Modificar Informações
+- Filtrar por Dia da Semana (Segunda, Terça, Quarta, etc...)
+- Filtrar por categoria de treino (força, hipertrofia, resistência)
+- Marcar como Concluido, Pendente e Não Realizado
 
 ## 🚀 Tecnologias
 
